@@ -1,0 +1,160 @@
+Nome,Tipo,Amigavel (1-10),Expectativa de Vida,Porte,Necessidade de Tosa,Bom com Crianças,Inteligência (1-10),Nível de Queda de Pelo,Riscos de Saúde,Dificuldade de Treino (1-10)
+Affenpinscher,Toy,7,14,Pequeno,Alto,Sim,8,Moderado,Pequeno,6
+Airedale Terrier,Terrier,8,12,Médio,Alto,Sim,7,Moderado,Pequeno,6
+Akita,De Trabalho,6,11,Grande,Moderado,Com treino,7,Alto,Alto,9
+Alaskan Malamute,De Trabalho,7,11,Grande,Alto,Sim,6,Muito alto,Moderado,8
+Australian Terrier,Terrier,7,13,Pequeno,Moderado,Sim,7,Pequeno,Pequeno,6
+Basenji,De Caça,6,13,Pequeno-médio,Pequeno,Não,6,Pequeno,Pequeno,9
+Basset,De Caça,8,11,Médio,Pequeno,Sim,5,Moderado,Alto,7
+Beagle,De Caça,9,13,Pequeno-médio,Pequeno,Sim,7,Moderado,Moderado,7
+Bearded Collie,Pastor,8,13,Médio,Muito alto,Sim,8,Alto,Pequeno,6
+Bichon Frisé,Não Esportivo,9,13,Pequeno,Muito alto,Sim,8,Pequeno,Pequeno,5
+Bobtail,Pastor,8,10,Grande,Muito alto,Sim,6,Alto,Moderado,6
+Boiadeiro Australiano,Pastor,7,14,Médio,Moderado,Sim,9,Moderado,Pequeno,7
+Boiadeiro Bernês,De Trabalho,9,8,Grande,Alto,Sim,7,Alto,Alto,5
+Boiadeiro Suíço Maior,De Trabalho,8,10,Grande,Pequeno,Sim,7,Moderado,Moderado,7
+Boieiro de Flandres,Pastor,7,11,Grande,Muito alto,Sim,8,Alto,Moderado,7
+Border Collie,Pastor,8,13,Médio,Alto,Sim,10,Moderado,Pequeno,6
+Border Terrier,Terrier,8,13,Pequeno,Moderado,Sim,7,Moderado,Pequeno,6
+Boston Terrier,Não Esportivo,9,12,Pequeno,Pequeno,Sim,8,Pequeno,Moderado,5
+Boxer,De Trabalho,9,11,Grande,Pequeno,Sim,7,Moderado,Moderado,6
+Buhund Norueguês,Pastor,8,12,Médio,Moderado,Sim,7,Moderado,Pequeno,6
+Bull Terrier,Terrier,7,12,Médio,Pequeno,Com treino,7,Pequeno,Moderado,7
+Bulldogue Americano,De Trabalho,8,11,Grande,Pequeno,Sim,6,Moderado,Moderado,7
+Bulldogue Francês,Não Esportivo,8,11,Pequeno,Pequeno,Sim,7,Pequeno,Alto,6
+Bulldogue Inglês,Não Esportivo,7,9,Médio,Pequeno,Sim,6,Moderado,Alto,7
+Bullmastiff,De Trabalho,6,9,Grande,Pequeno,Com treino,6,Moderado,Alto,7
+Cairn Terrier,Terrier,8,14,Pequeno,Moderado,Sim,7,Moderado,Pequeno,6
+Caniche (Miniatura),Não Esportivo,8,15,Pequeno,Muito alto,Sim,8,Pequeno,Pequeno,6
+Caniche (Padrão),Não Esportivo,9,12,Grande,Muito alto,Sim,8,Moderado,Moderado,5
+Caniche (Toy),Toy,9,15,Toy,Muito alto,Sim,8,Pequeno,Pequeno,5
+Caniche Padrão,Não Esportivo,9,12,Grande,Muito alto,Sim,8,Moderado,Moderado,5
+Cão Caçador Americano,De Caça,8,12,Médio,Pequeno,Sim,6,Moderado,Pequeno,6
+Cão Caçador de Alces Norueguês,De Caça,7,12,Médio,Moderado,Sim,7,Moderado,Moderado,7
+Cão Caçador de Guaxinim,De Caça,8,12,Médio,Moderado,Sim,6,Moderado,Pequeno,7
+Cão d'Água Espanhol,Esportivo,7,12,Médio,Muito alto,Sim,8,Moderado,Moderado,6
+Cão d'Água Português,Esportivo,8,11,Médio,Alto,Sim,8,Moderado,Moderado,6
+Cão da Montanha dos Pirenéus,De Trabalho,7,10,Gigante,Alto,Sim,6,Alto,Alto,7
+Cão de Canaã,Pastor,6,13,Médio,Pequeno,Com treino,8,Moderado,Pequeno,8
+Cão de Lontra,De Caça,7,10,Grande,Muito alto,Sim,6,Alto,Moderado,7
+Cão de Puffin Norueguês,Não Esportivo,7,12,Pequeno,Alto,Sim,7,Moderado,Alto,7
+Cão de Santo Humberto,De Caça,7,11,Grande,Moderado,Sim,6,Moderado,Alto,8
+Cão do Faraó,De Caça,7,12,Médio,Moderado,Sim,8,Moderado,Pequeno,7
+Cão Montanhês de Entlebuch,Pastor,7,12,Médio,Pequeno,Sim,8,Moderado,Pequeno,7
+Cão Pelado Mexicano,Não Esportivo,7,15,Pequeno-grande,Pequeno,Com treino,8,Pequeno,Moderado,6
+Cão Tailandês de Crista Dorsal,De Caça,6,12,Médio,Moderado,Com treino,7,Moderado,Moderado,7
+Cardigan Welsh Corgi,Pastor,8,13,Pequeno,Moderado,Sim,8,Alto,Moderado,6
+Carlino,Toy,8,12,Pequeno,Moderado,Sim,7,Moderado,Alto,6
+Cavalier King Charles Spaniel,Toy,10,11,Pequeno,Moderado,Sim,6,Moderado,Alto,4
+Chesapeake Bay Retriever,Esportivo,7,11,Grande,Moderado,Sim,7,Moderado,Pequeno,7
+Chihuahua,Toy,6,16,Pequeno,Pequeno,Não,7,Pequeno,Moderado,7
+Chow Chow,Não Esportivo,5,10,Médio,Alto,Não,5,Alto,Alto,9
+Clumber Spaniel,Esportivo,7,11,Médio,Moderado,Sim,6,Alto,Moderado,6
+Cocker Spaniel,Esportivo,9,13,Pequeno-médio,Alto,Sim,7,Alto,Moderado,5
+Cristado Chinês,Toy,7,14,Pequeno,Alto,Sim,8,Pequeno,Pequeno,6
+Dálmata,Não Esportivo,8,12,Médio,Pequeno,Sim,7,Moderado,Alto,7
+Dandie Dinmont Terrier,Terrier,7,13,Pequeno,Moderado,Sim,7,Pequeno,Pequeno,7
+Dobermann,De Trabalho,8,11,Grande,Pequeno,Com treino,9,Pequeno,Moderado,7
+Dogue Alemão,De Trabalho,8,8,Gigante,Pequeno,Sim,6,Moderado,Alto,6
+English Cocker Spaniel,Esportivo,8,12,Médio,Alto,Sim,7,Moderado,Moderado,5
+English Foxhound,De Caça,7,12,Médio,Pequeno,Sim,6,Moderado,Pequeno,7
+English Setter,Esportivo,8,12,Médio,Alto,Sim,7,Moderado,Moderado,6
+English Springer Spaniel,Esportivo,9,13,Médio,Alto,Sim,7,Moderado,Moderado,6
+English Toy Spaniel,Toy,8,11,Pequeno,Alto,Sim,7,Moderado,Moderado,6
+Esquimó Americano,Não Esportivo,9,14,Pequeno-médio,Alto,Sim,9,Alto,Pequeno,5
+Field Spaniel,Esportivo,7,12,Médio,Alto,Sim,7,Moderado,Pequeno,6
+Flat-Coated Retriever,Esportivo,9,11,Grande,Moderado,Sim,8,Moderado,Moderado,5
+Galgo Afegão,De Caça,5,13,Grande,Muito alto,Não,4,Alto,Moderado,8
+Galgo Árabe,De Caça,6,12,Médio,Pequeno,Com treino,7,Pequeno,Moderado,7
+Galgo Escocês,De Caça,6,8,Grande,Moderado,Sim,6,Moderado,Moderado,7
+Galgo Inglês,De Caça,7,11,Grande,Pequeno,Sim,7,Pequeno,Pequeno,6
+Galgo Italiano,Toy,7,13,Pequeno,Pequeno,Não,7,Pequeno,Moderado,7
+Galgo Persa,De Caça,6,12,Médio,Moderado,Não,7,Moderado,Moderado,7
+Galgo Russo,De Caça,6,11,Grande,Alto,Não,6,Moderado,Pequeno,7
+Golden Retriever,Esportivo,10,11,Grande,Alto,Sim,8,Alto,Moderado,4
+Gordon Setter,Esportivo,8,11,Grande,Alto,Sim,7,Moderado,Moderado,6
+Griffon de Bruxelas,Toy,7,13,Pequeno,Alto,Sim,8,Moderado,Moderado,7
+Griffon Italiano,Esportivo,7,12,Grande,Alto,Sim,7,Moderado,Moderado,7
+Harrier,De Caça,8,12,Médio,Pequeno,Sim,6,Moderado,Pequeno,6
+Havanês,Toy,9,14,Pequeno,Alto,Sim,8,Pequeno,Pequeno,5
+Husky Siberiano,De Trabalho,8,12,Médio,Moderado,Sim,7,Moderado,Moderado,7
+Irish Red and White Setter,Esportivo,8,12,Grande,Alto,Sim,7,Moderado,Moderado,6
+Irish Terrier,Terrier,7,13,Médio,Moderado,Sim,7,Pequeno,Pequeno,7
+Keeshond,Não Esportivo,8,13,Médio,Alto,Sim,8,Alto,Pequeno,6
+Kerry Blue Terrier,Terrier,7,13,Médio,Alto,Sim,7,Pequeno,Pequeno,7
+Komondor,De Trabalho,6,11,Grande,Muito alto,Com treino,6,Pequeno,Pequeno,8
+Kuvasz,De Trabalho,6,11,Grande,Moderado,Com treino,7,Moderado,Moderado,8
+Labrador Retriever,Esportivo,10,11,Grande,Moderado,Sim,8,Alto,Moderado,4
+Lakeland Terrier,Terrier,7,13,Pequeno,Moderado,Sim,7,Pequeno,Pequeno,7
+Lapphund Finlandês,Pastor,8,12,Médio,Alto,Sim,7,Alto,Pequeno,6
+Leonberger,De Trabalho,8,9,Gigante,Alto,Sim,7,Alto,Alto,8
+Lhasa Apso,Não Esportivo,6,13,Pequeno,Muito alto,Não,7,Pequeno,Pequeno,8
+Lobo Irlandês,De Caça,7,7,Gigante,Moderado,Sim,6,Moderado,Alto,6
+Lulu da Pomerânia,Toy,8,12,Pequeno,Alto,Sim,7,Alto,Moderado,7
+Maltês,Toy,8,13,Pequeno,Muito alto,Não,7,Pequeno,Pequeno,6
+Manchester Terrier,Terrier,7,15,Pequeno-médio,Pequeno,Com treino,8,Moderado,Pequeno,7
+Mastim Inglês,De Trabalho,6,9,Gigante,Pequeno,Sim,6,Moderado,Alto,7
+Mastim Italiano,De Trabalho,6,11,Grande,Pequeno,Com treino,7,Pequeno,Moderado,9
+Mastim Napolitano,De Trabalho,6,8,Grande,Moderado,Sim,5,Moderado,Alto,8
+Mastim Tibetano,De Trabalho,7,10,Grande,Alto,Com treino,6,Moderado,Moderado,8
+Norfolk Terrier,Terrier,8,14,Pequeno,Pequeno,Sim,7,Pequeno,Pequeno,6
+Papillon,Toy,9,13,Pequeno,Moderado,Sim,8,Pequeno,Pequeno,5
+Pastor Alemão,Pastor,8,11,Grande,Moderado,Com treino,9,Alto,Moderado,6
+Pastor Australiano,Pastor,8,14,Médio,Alto,Sim,9,Alto,Moderado,7
+Pastor de Brie,Pastor,7,12,Grande,Alto,Sim,8,Moderado,Pequeno,7
+Pastor de Shetland,Pastor,9,12,Médio,Alto,Sim,8,Alto,Moderado,5
+Pastor dos Pirenéus,De Trabalho,7,11,Grande,Alto,Sim,6,Alto,Moderado,8
+Pastor Escocês,Pastor,9,13,Médio,Alto,Sim,8,Alto,Moderado,5
+Pastor Islandês,Pastor,8,12,Médio,Moderado,Sim,7,Moderado,Pequeno,6
+Pastor Sueco,Pastor,8,12,Médio,Moderado,Sim,8,Moderado,Pequeno,7
+Pembroke Welsh Corgi,Pastor,9,12,Pequeno,Moderado,Sim,8,Moderado,Moderado,5
+Pequeno Cão Leão,Não Esportivo,8,14,Pequeno,Alto,Sim,8,Pequeno,Pequeno,6
+Pequinês,Toy,6,12,Pequeno,Muito alto,Com treino,5,Moderado,Alto,7
+Petit Basset Griffon Vendéen,De Caça,7,12,Pequeno,Alto,Sim,6,Alto,Moderado,7
+Pinscher Alemão,De Trabalho,7,13,Médio,Pequeno,Com treino,8,Moderado,Pequeno,7
+Pinscher Miniatura,Toy,6,13,Pequeno,Pequeno,Não,7,Pequeno,Pequeno,8
+Podenco Ibicenco,De Caça,7,13,Médio,Pequeno,Sim,7,Pequeno,Pequeno,7
+Podengo Português,De Caça,7,12,Médio,Moderado,Sim,8,Moderado,Pequeno,8
+Pointer,Esportivo,8,12,Médio,Moderado,Sim,7,Moderado,Moderado,6
+Pointer Alemão de Pelo Curto,Esportivo,8,13,Grande,Pequeno,Sim,8,Moderado,Pequeno,6
+Pointer Alemão de Pelo Duro,Esportivo,7,13,Grande,Moderado,Sim,8,Moderado,Pequeno,7
+Pudelpointer,Esportivo,7,12,Médio,Moderado,Sim,8,Moderado,Pequeno,7
+Rat Terrier,Terrier,7,15,Pequeno-médio,Pequeno,Sim,7,Moderado,Moderado,7
+Retriever de Pelo Encaracolado,Esportivo,7,12,Grande,Moderado,Sim,7,Pequeno,Pequeno,6
+Rhodesian Ridgeback,De Caça,6,11,Grande,Moderado,Com treino,8,Moderado,Moderado,7
+Rottweiler,De Trabalho,7,9,Grande,Moderado,Com treino,8,Alto,Alto,8
+Samoieda,De Trabalho,9,12,Médio,Alto,Sim,7,Alto,Moderado,7
+São Bernardo,De Trabalho,9,8,Gigante,Alto,Sim,6,Alto,Moderado,7
+Schipperke,Não Esportivo,7,13,Pequeno,Moderado,Não,7,Moderado,Moderado,7
+Schnauzer Gigante,De Trabalho,7,13,Grande,Alto,Com treino,8,Pequeno,Moderado,8
+Schnauzer Miniatura,Standard,8,12,Pequeno,Alto,Sim,8,Moderado,Pequeno,6
+Schnauzer Standard,Standard,7,15,Médio,Alto,Sim,7,Moderado,Moderado,6
+Scottish Terrier,Terrier,7,12,Pequeno,Moderado,Sim,6,Moderado,Alto,7
+Setter Irlandês,Esportivo,8,13,Grande,Alto,Sim,7,Alto,Moderado,6
+Shar-Pei Chinês,Não Esportivo,6,10,Médio,Pequeno,Com treino,6,Moderado,Alto,8
+Shiba Inu,Não Esportivo,7,13,Pequeno,Moderado,Não,7,Moderado,Moderado,7
+Shih Tzu,Toy,8,14,Pequeno,Muito alto,Sim,6,Moderado,Moderado,7
+Silky Terrier,Terrier,7,13,Pequeno,Alto,Sim,7,Moderado,Pequeno,7
+Skye Terrier,Terrier,7,13,Pequeno,Moderado,Não,6,Moderado,Moderado,7
+Smooth Fox Terrier,Terrier,7,13,Pequeno,Pequeno,Sim,7,Moderado,Moderado,7
+Soft-Coated Wheaten Terrier,Terrier,8,12,Médio,Alto,Sim,7,Moderado,Moderado,6
+Spaniel Bretão,Esportivo,8,13,Médio,Moderado,Sim,8,Moderado,Pequeno,5
+Spaniel d'Água Irlandês,Esportivo,8,11,Grande,Alto,Sim,7,Pequeno,Pequeno,6
+Spaniel Japonês,Toy,7,11,Pequeno,Moderado,Sim,7,Moderado,Pequeno,6
+Spitz Finlandês,Não Esportivo,7,13,Médio,Moderado,Sim,8,Moderado,Pequeno,7
+Spitz Japonês,Não Esportivo,8,13,Pequeno,Alto,Sim,8,Alto,Pequeno,6
+Staffordshire Bull Terrier,Terrier,7,12,Médio,Pequeno,Sim,7,Moderado,Alto,7
+Sussex Spaniel,Esportivo,7,11,Médio,Alto,Sim,6,Moderado,Moderado,6
+Teckel,De Caça,7,14,Pequeno,Pequeno,Com treino,7,Moderado,Alto,7
+Teckel de Pelo Duro,De Caça,7,13,Pequeno,Moderado,Com treino,7,Moderado,Alto,7
+Terra-nova,De Trabalho,9,9,Gigante,Alto,Sim,7,Moderado,Moderado,7
+Terrier Russo Preto,De Trabalho,7,11,Grande,Alto,Sim,8,Moderado,Moderado,8
+Toy Fox Terrier,Toy,8,15,Muito pequeno,Moderado,Sim,8,Pequeno,Pequeno,7
+Treeing Walker Coonhound,De Caça,8,12,Médio,Moderado,Sim,7,Moderado,Moderado,7
+Welsh Springer Spaniel,Esportivo,8,13,Médio,Alto,Sim,7,Moderado,Moderado,6
+Welsh Terrier,Terrier,7,14,Médio,Moderado,Sim,7,Moderado,Moderado,7
+West Highland White Terrier,Terrier,8,13,Pequeno,Moderado,Sim,7,Moderado,Moderado,7
+Whippet,De Caça,7,13,Médio,Pequeno,Sim,8,Pequeno,Pequeno,6
+Wire Fox Terrier,Terrier,7,14,Pequeno,Moderado,Sim,7,Moderado,Moderado,7
+Wirehaired Pointing Griffon,Esportivo,7,13,Médio,Alto,Sim,7,Moderado,Moderado,6
+Yorkshire Terrier,Toy,8,13,Muito pequeno,Alto,Sim,7,Moderado,Moderado,6
